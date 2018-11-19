@@ -1,0 +1,14 @@
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\bin\Debug\netcoreapp2.1\Axixur.IDP.deps.json
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\bin\Debug\netcoreapp2.1\Axixur.IDP.runtimeconfig.json
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\bin\Debug\netcoreapp2.1\Axixur.IDP.runtimeconfig.dev.json
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\bin\Debug\netcoreapp2.1\Axixur.IDP.dll
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\bin\Debug\netcoreapp2.1\Axixur.IDP.pdb
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.csprojAssemblyReference.cache
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.csproj.CoreCompileInputs.cache
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.RazorAssemblyInfo.cache
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.RazorAssemblyInfo.cs
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.AssemblyInfoInputs.cache
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.AssemblyInfo.cs
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.RazorTargetAssemblyInfo.cache
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.dll
+E:\Axixur\Axixur.IDP\Axixur.IDP\Axixur.IDP\obj\Debug\netcoreapp2.1\Axixur.IDP.pdb
